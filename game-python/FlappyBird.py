@@ -22,7 +22,7 @@ FONT_PONTO = pygame.font.SysFont('OpenSan', 30)
 # Objetos
 class Passaro:
     IMGS = IMAGENS_PASSARO
-    # animações de rotação
+    # animações de rotação      
     ROTACAO_MAXIMA = 10
     VALOCIDADE_ROTACAO = 15
     TEMPO_ANIMACAO = 0
